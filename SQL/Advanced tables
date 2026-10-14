@@ -1,0 +1,11 @@
+#creacion de una base de datos
+CREATE DATABASE skillforge;
+
+#creacion de una tabla
+CREATE TABLE USer(
+ID_User int UNSIGNED PRIMARY KEY
+
+)
+
+#UNSIGNED hace que solo se ingresen valores positivos impide que se inserten negativos
+#CHECK permite establecer rangos

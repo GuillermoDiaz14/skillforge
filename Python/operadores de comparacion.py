@@ -1,0 +1,2 @@
+MINIMO = 0;
+MAXIMO = 5;
