@@ -11,5 +11,4 @@ print(f"Calorías quemadas: {calorias_quemadas}")
 if pasos >= META_PASOS:
     print("¡Felicidades! Has alcanzado la meta de pasos.")
 else:
-    pasos_faltantes = META_PASOS - pasos
-    print(f"Te faltan {pasos_faltantes} pasos para alcanzar la meta.")  
+    pasos_faltantes = META_PASOS - pasos    print(f"Te faltan {pasos_faltantes} pasos para alcanzar la meta.") 
